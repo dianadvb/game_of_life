@@ -131,10 +131,12 @@ set<Coord> nextGen(const set<Coord>& current) {
 }
 
 int main(int argc, char* argv[]) {
+    cout << "Starting main... "<<endl;
     string inputFile;
     int iterations = 0;
     bool outputAll = false;
 
+    cout << "Arguments received: "<<endl;
     //read command line
     for (int i = 1; i < argc; ++i) {
         string arg = argv[i];
@@ -156,7 +158,7 @@ int main(int argc, char* argv[]) {
         cerr << "Example: game_of_life --input <inpiut file> --iterations <n> [--all]" << endl;
         return 1;
     }
-
+    cout << "Command line is valid... "<<endl;
     //create dir to store the new files
     string timestamp = getCurrentTimestamp();
     filesystem::path outDir(timestamp);
