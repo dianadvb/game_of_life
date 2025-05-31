@@ -1,0 +1,7 @@
+D:/Abbelight task 2/game_of_life/build/CMakeFiles/game_of_life.dir
+D:/Abbelight task 2/game_of_life/build/CMakeFiles/edit_cache.dir
+D:/Abbelight task 2/game_of_life/build/CMakeFiles/rebuild_cache.dir
+D:/Abbelight task 2/game_of_life/build/CMakeFiles/list_install_components.dir
+D:/Abbelight task 2/game_of_life/build/CMakeFiles/install.dir
+D:/Abbelight task 2/game_of_life/build/CMakeFiles/install/local.dir
+D:/Abbelight task 2/game_of_life/build/CMakeFiles/install/strip.dir
