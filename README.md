@@ -1,6 +1,6 @@
 # Project Overview
 
-This repository contains my C++ implementation of Conway’s Game of Life, following the requirements outlined in this snippet. 
+This repository contains my C++ implementation of Conway’s Game of Life, following the requirements outlined in this snippet: https://gitlab.com/-/snippets/2537975#goal
 
 The program reads an initial board state from a file, applies the Game of Life rules for a set number of iterations, and outputs the final or intermediate states.
 
